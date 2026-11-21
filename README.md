@@ -131,4 +131,4 @@ This repository contains an evolving project prototype. Its matching rules are i
 
 ## Author
 
-[Mohammad Saif](https://github.com/MohammadSaif09)
+[Amrita Singh](https://github.com/amrita181)
