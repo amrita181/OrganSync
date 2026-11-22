@@ -37,7 +37,7 @@ The hospital matching endpoint filters **active donor pledges** by requested org
 ## Repository layout
 
 ```text
-OrganSync-New/
+OrganSync/
 ├── backEnd/
 │   ├── config/          # Database connection
 │   ├── controllers/     # Request handlers
